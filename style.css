@@ -1,0 +1,53 @@
+
+.card {
+    background-color: #0000FF;
+    width: 300px;
+    height: 320px;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    border: 3px solid black;
+       
+}
+
+.card-btn {
+    text-decoration: none;
+    color: white;
+    display: block;
+    background-color: black;
+    width: 240px;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin: auto;
+    border-radius: 12px;
+    font-family: 'Oswald', sans-serif;
+       font-size: 20px;
+}
+
+.card-btn:hover {
+   background-color: #575755;
+   color: white;
+}
+
+.card-title {
+font-family: 'Cormorant Garamond', serif;
+   font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 2px;
+}
+
+.card-text {
+    font-size: 40px;
+    font-family: 'PT Sans Narrow', sans-serif;
+
+    }
+
+.card-top {
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Cormorant Garamond', serif;
+ }
+
+
